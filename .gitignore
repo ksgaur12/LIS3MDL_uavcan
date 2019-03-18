@@ -1,4 +1,6 @@
 **/*.pyc
+bootloader/
+framework/
 .cproject
 .project
 .pydevproject

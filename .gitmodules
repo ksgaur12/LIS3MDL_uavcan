@@ -1,7 +1,7 @@
 [submodule "framework"]
 	path = framework
-	url = git@github.com:nikhil9/framework.git
-	branch = ms5525_uavcan
+	url = git@github.com:ksgaur12/framework.git
+	branch = cds_uavcan_drivers
 [submodule "bootloader"]
 	path = bootloader
-	url = git@github.com:nikhil9/bootloader.git
+	url = git@github.com:ksgaur12/bootloader.git
